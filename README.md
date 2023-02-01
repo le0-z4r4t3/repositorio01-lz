@@ -1,2 +1,2 @@
 # repositorio01-lz
-prueba de primer repositorio
+Este proyecto es un proyecto de prueba como parte del aprendisaje del bootcamp de Henry
